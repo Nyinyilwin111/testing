@@ -1,2 +1,3 @@
 this is first test file for GitHub.
 this is update text in github.
+this is update in normal notepad.
